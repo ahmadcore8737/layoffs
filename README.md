@@ -98,16 +98,6 @@ Project layoffs.ipynb
 
 README.md
 
-images/
 
----
-
-## Future Improvements
-
-Interactive dashboard using Power BI or Tableau
-
-Machine Learning model to predict layoffs
-
-Deployment using Streamlit
 
 SQL version of the analysis
